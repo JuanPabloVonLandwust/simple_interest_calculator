@@ -1,1 +1,1 @@
-# sinple_interest_calculator
+# coding-project-template
